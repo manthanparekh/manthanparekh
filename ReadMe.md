@@ -1,11 +1,9 @@
-# profile
-
+<h1 style="text-align: center;">Welcome to my Github Profile</h1>
 
 <div style="width:480; height:480; padding-bottom:50%; position:relative; align="center"><iframe src="https://giphy.com/embed/26xBwEevU6tBgktHy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-work-glas-2017-26xBwEevU6tBgktHy"></a></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manthanparekh01) 
 
-Welcome to my GitHub
 ---
 # 💫 About Me:
 👋 Hi there! I'm Manthan Parekh, a passionate software developer with B.S. Computer Science and  a love for coding and creating innovative solutions. profile!<br><br>🌱 I'm constantly learning and keeping up with the latest technologies and best practices in the industry. I believe in the power of continuous improvement and strive to enhance my skills with each new project.<br><br>📫 I am actively seeking opportunities to contribute and grow as a software engineer. If you would like to connect, discuss potential projects, or have any questions, please feel free to reach out to me through LinkedIn.<br><br>🌟 Thank you for visiting my GitHub profile! Feel free to explore my projects and contributions. I am excited about the possibilities ahead and eager to make a positive impact through software development. Let's connect and create amazing software together!<br>
